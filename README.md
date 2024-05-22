@@ -1,4 +1,4 @@
-# Arquivo com componentes feitos com classes
+# Cronometro
 
 ## Script
 
