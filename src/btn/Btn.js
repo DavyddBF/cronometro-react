@@ -8,7 +8,7 @@ class Btn extends Component{
     render() {
       return (
         <>
-          <a className='btn' onClick={ this.props.click }>{ this.props.title }</a>
+          <button className='btn' onClick={ this.props.click }>{ this.props.title }</button>
         </>
       );
     }
